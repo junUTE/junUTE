@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MaxTrann</h1>
+<h1 align="center">Hi 👋, I'm junUTE</h1>
 <p align="center"><em>I love coding and learning new tec</em></p>
 
 ---
