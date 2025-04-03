@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm junUTE</h1>
-<p align="center"><em>I love coding and learning new tec</em></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I+love+coding+and+learning+new+tech&center=true&width=380&height=45">
+</p>
 
 ---
 
