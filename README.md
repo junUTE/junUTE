@@ -8,9 +8,6 @@
   <p>Building systems across Web • Mobile • Desktop </p>
 
   <p>
-    <a href="[URL_GITHUB_CỦA_BẠN]" target="(https://github.com/JunUTE">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
     <a href="URL_LINKEDIN_CỦA_BẠN" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
