@@ -89,7 +89,7 @@
 Here are some outstanding projects I have developed in collaboration with my team members:
 
 - **[CarePlus Clinic](https://github.com/1440isme/CarePlus)** – A comprehensive online appointment booking and clinical management system designed for international general clinics.
-- **[EnFlow (Backend)](https://github.com/1440isme/EnFlow)** • **[EnFlow (Frontend)](https://github.com/1440isme/EnFlow_Frontend)** – A workflow management and standardization platform aimed at optimizing team operations and user interactions.
+- **[EnFlow (Backend)](https://github.com/1440isme/EnFlow)** & **[EnFlow (Frontend)](https://github.com/1440isme/EnFlow_Frontend)** – A workflow management and standardization platform aimed at optimizing team operations and user interactions.
 - **[MinLish](https://github.com/1440isme/MinLish)** – A minimalist English learning application built with streamlined and efficient learning methodologies.
 - **[Liora Mom & Baby](https://github.com/1440isme/Liora-Mom-Baby)** – A healthcare ecosystem designed to monitor and support the comprehensive growth and well-being of mothers and infants.
 - **[Animal Species Recognition](https://github.com/1440isme/AnimalSpeciesRecognition)** – An AI-powered application for identifying and classifying wildlife species using machine learning techniques.
