@@ -28,8 +28,6 @@
 Dưới đây là các dự án nổi bật mình đã tham gia phát triển cùng các cộng sự:
 
 - 🏥 **[CarePlus Clinic](https://github.com/1440isme/CarePlus)** – Hệ thống đặt lịch khám bệnh trực tuyến toàn diện cho phòng khám đa khoa quốc tế.
-  - *Techstack:* React 19, Vite, Tailwind CSS v4, Redux Toolkit, TanStack Query, Node.js, Express, Prisma 7, MySQL, Redis, Elasticsearch, Socket.IO, Docker, Mocha & Selenium (E2E testing).
-  - *Đóng góp:* Tham gia phát triển các tính năng cốt lõi của hệ thống, xây dựng các portal phân quyền, tích hợp tính năng quản lý lịch trình và viết kịch bản kiểm thử tự động.
 - 📈 **[EnFlow (Backend)](https://github.com/1440isme/EnFlow)** – **[EnFlow (Frontend)](https://github.com/1440isme/EnFlow_Frontend)** – Dự án hỗ trợ quản lý và chuẩn hóa quy trình công việc, tối ưu hóa tương tác người dùng.
 - 📚  **[MinLish](https://github.com/1440isme/MinLish)** – Ứng dụng hỗ trợ học tiếng Anh hiệu quả theo phương pháp tinh gọn, tối giản.
 - 🍼 **[Liora Mom & Baby](https://github.com/1440isme/Liora-Mom-Baby)** – Hệ thống chăm sóc sức khỏe và hỗ trợ theo dõi sự phát triển toàn diện của mẹ và bé.
