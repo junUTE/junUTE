@@ -22,15 +22,16 @@
 
 ---
 
-## 🔎 Giới thiệu ngắn gọn
+## 🔎 About Me
 
-- 🎓 Sinh viên chuyên ngành **Công nghệ phần mềm** – Khoa Công nghệ thông tin tại HCM-UTE
-- 🌱 Đang học tập và thực hành sâu về **Kiến trúc phần mềm, Thiết kế hệ thống, Phát triển Web & Mobile**
-- 🤖 Đam mê xây dựng các ứng dụng thực tế, tối ưu hóa trải nghiệm người dùng và quy trình vận hành hệ thống
+- **Software Engineering** student at Ho Chi Minh City University of Technology and Engineering (HCM-UTE)
+- Focusing on **Software Architecture, System Design, and Full-Stack Web & Mobile Development**
+- Passionate about building robust, user-centric applications and optimizing system workflows to solve real-world problems
+- Constantly learning and eager to embrace new technologies to write clean, maintainable, and scalable code
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -83,20 +84,15 @@
 
 ---
 
-## 👥 Dự án nhóm / Cộng tác
+## Group & Collaborative Projects
 
-Dưới đây là các dự án nổi bật mình đã tham gia phát triển cùng các cộng sự:
+Here are some outstanding projects I have developed in collaboration with my team members:
 
-- 🏥 **[CarePlus Clinic](https://github.com/1440isme/CarePlus)** – Hệ thống đặt lịch khám bệnh trực tuyến toàn diện cho phòng khám đa khoa quốc tế.
-- 📈 **[EnFlow (Backend)](https://github.com/1440isme/EnFlow)** – **[EnFlow (Frontend)](https://github.com/1440isme/EnFlow_Frontend)** – Dự án hỗ trợ quản lý và chuẩn hóa quy trình công việc, tối ưu hóa tương tác người dùng.
-- 📚  **[MinLish](https://github.com/1440isme/MinLish)** – Ứng dụng hỗ trợ học tiếng Anh hiệu quả theo phương pháp tinh gọn, tối giản.
-- 🍼 **[Liora Mom & Baby](https://github.com/1440isme/Liora-Mom-Baby)** – Hệ thống chăm sóc sức khỏe và hỗ trợ theo dõi sự phát triển toàn diện của mẹ và bé.
-- 🦁 **[Animal Species Recognition](https://github.com/1440isme/AnimalSpeciesRecognition)** – Ứng dụng nhận diện và phân loại các loài động vật hoang dã dựa trên công nghệ học máy.
-- 🏨 **[QuanLyKhachSan](https://github.com/1440isme/QuanLyKhachSan)** – Phần mềm quản lý vận hành khách sạn, tối ưu quy trình đặt phòng và chăm sóc khách hàng.
-
----
-
-## 🚀 Dự án cá nhân nổi bật
-- 🧩 **[8-Puzzle Solver with UI](https://github.com/junUTE/8-Puzzle-Solver-with-UI)** – Giải thuật toán 8-Puzzle có giao diện trực quan bằng Pygame  
+- **[CarePlus Clinic](https://github.com/1440isme/CarePlus)** – A comprehensive online appointment booking and clinical management system designed for international general clinics.
+- **[EnFlow (Backend)](https://github.com/1440isme/EnFlow)** • **[EnFlow (Frontend)](https://github.com/1440isme/EnFlow_Frontend)** – A workflow management and standardization platform aimed at optimizing team operations and user interactions.
+- **[MinLish](https://github.com/1440isme/MinLish)** – A minimalist English learning application built with streamlined and efficient learning methodologies.
+- **[Liora Mom & Baby](https://github.com/1440isme/Liora-Mom-Baby)** – A healthcare ecosystem designed to monitor and support the comprehensive growth and well-being of mothers and infants.
+- **[Animal Species Recognition](https://github.com/1440isme/AnimalSpeciesRecognition)** – An AI-powered application for identifying and classifying wildlife species using machine learning techniques.
+- **[QuanLyKhachSan](https://github.com/1440isme/QuanLyKhachSan)** – A hotel management system designed to streamline booking operations, room allocation, and customer services.
 
 ---
