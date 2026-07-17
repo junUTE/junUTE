@@ -7,7 +7,7 @@
 
 ## 🔎 Giới thiệu ngắn gọn
 
-- 🎓 Sinh viên ngành Công nghệ thông tin tại HCM-UTE[cite: 11]
+- 🎓 Sinh viên ngành Công nghệ thông tin tại HCM-UTE
 - 🌱 Đang học và làm việc với các công nghệ về **AI, Web, IoT, Bảo mật**
 - 🤖 Quan tâm đến các project như: nhận diện khuôn mặt, game AI, hệ thống web quy mô lớn và tối ưu hóa hiệu suất
 - 🌐 Kết nối mình ở các nền tảng bên dưới!
@@ -18,24 +18,24 @@
 
 - 💻 Ngôn ngữ: Python, C#, Java, JavaScript / TypeScript
 - 🌐 Web & Frameworks: ReactJS (React 19), Node.js, Express.js, HTML, CSS, Tailwind CSS
-- 🗄️ Database & Caching: MySQL, MongoDB Redis, Elasticsearch[cite: 19]
-- ⚙️ Tools: Git, GitHub, VSCode, DevExpress, Docker, Postman, JIRA[cite: 15, 16, 19]
-- 🧠 AI & Khác: A*, 8-Puzzle Solver, Face Recognition, Socket.IO[cite: 19]
+- 🗄️ Database & Caching: MySQL, MongoDB Redis, Elasticsearch
+- ⚙️ Tools: Git, GitHub, VSCode, DevExpress, Docker, Postman, JIRA
+- 🧠 AI & Khác: A*, 8-Puzzle Solver, Face Recognition, Socket.IO
 
 ---
 
 ## 👥 Dự án nhóm / Cộng tác
 
-Dưới đây là các dự án nổi bật mình đã tham gia phát triển cùng các cộng sự[cite: 3, 21]:
+Dưới đây là các dự án nổi bật mình đã tham gia phát triển cùng các cộng sự:
 
-- 🏥 **[CarePlus Clinic](https://github.com/1440isme/CarePlus)** – Hệ thống đặt lịch khám bệnh trực tuyến toàn diện cho phòng khám đa khoa quốc tế[cite: 19].
-  - *Techstack:* React 19, Vite, Tailwind CSS v4, Redux Toolkit, TanStack Query, Node.js, Express, Prisma 7, MySQL, Redis, Elasticsearch, Socket.IO, Docker, Mocha & Selenium (E2E testing)[cite: 19].
-  - *Đóng góp:* Tham gia phát triển các tính năng cốt lõi của hệ thống, xây dựng các portal phân quyền, tích hợp tính năng quản lý lịch trình và viết kịch bản kiểm thử tự động[cite: 12, 14, 19].
-- 📈 **[EnFlow (Frontend)](https://github.com/1440isme/EnFlow_Frontend)** – Dự án hỗ trợ quản lý và chuẩn hóa quy trình công việc, tối ưu hóa tương tác người dùng[cite: 8].
-- 🇬🇧 **[MinLish](https://github.com/1440isme/MinLish)** – Ứng dụng hỗ trợ học tiếng Anh hiệu quả theo phương pháp tinh gọn, tối giản[cite: 5].
-- 🍼 **[Liora Mom & Baby](https://github.com/1440isme/Liora-Mom-Baby)** – Hệ thống chăm sóc sức khỏe và hỗ trợ theo dõi sự phát triển toàn diện của mẹ và bé[cite: 9].
-- 🦁 **[Animal Species Recognition](https://github.com/1440isme/AnimalSpeciesRecognition)** – Ứng dụng nhận diện và phân loại các loài động vật hoang dã dựa trên công nghệ học máy[cite: 7].
-- 🏨 **[QuanLyKhachSan](https://github.com/1440isme/QuanLyKhachSan)** – Phần mềm quản lý vận hành khách sạn, tối ưu quy trình đặt phòng và chăm sóc khách hàng[cite: 10].
+- 🏥 **[CarePlus Clinic](https://github.com/1440isme/CarePlus)** – Hệ thống đặt lịch khám bệnh trực tuyến toàn diện cho phòng khám đa khoa quốc tế.
+  - *Techstack:* React 19, Vite, Tailwind CSS v4, Redux Toolkit, TanStack Query, Node.js, Express, Prisma 7, MySQL, Redis, Elasticsearch, Socket.IO, Docker, Mocha & Selenium (E2E testing).
+  - *Đóng góp:* Tham gia phát triển các tính năng cốt lõi của hệ thống, xây dựng các portal phân quyền, tích hợp tính năng quản lý lịch trình và viết kịch bản kiểm thử tự động.
+- 📈 **[EnFlow (Frontend)](https://github.com/1440isme/EnFlow_Frontend)** – Dự án hỗ trợ quản lý và chuẩn hóa quy trình công việc, tối ưu hóa tương tác người dùng.
+- 🇬🇧 **[MinLish](https://github.com/1440isme/MinLish)** – Ứng dụng hỗ trợ học tiếng Anh hiệu quả theo phương pháp tinh gọn, tối giản.
+- 🍼 **[Liora Mom & Baby](https://github.com/1440isme/Liora-Mom-Baby)** – Hệ thống chăm sóc sức khỏe và hỗ trợ theo dõi sự phát triển toàn diện của mẹ và bé.
+- 🦁 **[Animal Species Recognition](https://github.com/1440isme/AnimalSpeciesRecognition)** – Ứng dụng nhận diện và phân loại các loài động vật hoang dã dựa trên công nghệ học máy.
+- 🏨 **[QuanLyKhachSan](https://github.com/1440isme/QuanLyKhachSan)** – Phần mềm quản lý vận hành khách sạn, tối ưu quy trình đặt phòng và chăm sóc khách hàng.
 ---
 ## 🚀 Dự án cá nhân nổi bật
 
