@@ -45,6 +45,9 @@
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
@@ -80,6 +83,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
 </p>
 
 ---
@@ -92,7 +96,7 @@ Here are some outstanding projects I have developed in collaboration with my tea
 - **[EnFlow (Backend)](https://github.com/1440isme/EnFlow)** & **[EnFlow (Frontend)](https://github.com/1440isme/EnFlow_Frontend)** – A workflow management and standardization platform aimed at optimizing team operations and user interactions.
 - **[MinLish](https://github.com/1440isme/MinLish)** – A minimalist English learning application built with streamlined and efficient learning methodologies.
 - **[Liora Mom & Baby](https://github.com/1440isme/Liora-Mom-Baby)** – A healthcare ecosystem designed to monitor and support the comprehensive growth and well-being of mothers and infants.
+- **[Liora](https://github.com/1440isme/Liora)** – An e-commerce platform dedicated to cosmetics, featuring product cataloging, secure checkout, and user management
 - **[Animal Species Recognition](https://github.com/1440isme/AnimalSpeciesRecognition)** – An AI-powered application for identifying and classifying wildlife species using machine learning techniques.
 - **[QuanLyKhachSan](https://github.com/1440isme/QuanLyKhachSan)** – A hotel management system designed to streamline booking operations, room allocation, and customer services.
-
 ---
