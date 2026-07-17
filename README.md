@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vu Quoc Trung</h1>
+<h1 align="center">Hi, I'm Vu Quoc Trung</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+love+coding+and+learning+new+tech&center=true&width=380&height=45">
 </p>
